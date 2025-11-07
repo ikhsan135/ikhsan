@@ -1,1 +1,5 @@
-{ "blacklisted_ids": [] }
+{
+  "blacklisted_ids": [
+    "12345678"
+  ]
+}
